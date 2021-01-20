@@ -1,0 +1,659 @@
+,TaxID,Group,Abund,PlotName,Level,Symbol
+1,P1,WBS Day -56,-0.2054784465,Actinobacteria,Phylum,
+2,P1,WBS Day -7,0.0985918349,Actinobacteria,Phylum,
+3,P1,WBS Day 21,-0.4397174581,Actinobacteria,Phylum,
+4,P1,"WBS Day 49
+(healthy)",-1.1871810029,Actinobacteria,Phylum,
+5,P1,"WBS Day 49
+(pathology)",-0.4548451884,Actinobacteria,Phylum,
+6,P1,YBS Day -56,0.05820859,Actinobacteria,Phylum,
+7,P1,YBS Day -7,0.6424916578,Actinobacteria,Phylum,
+8,P1,YBS Day 21,0.4043998957,Actinobacteria,Phylum,
+9,P1,"YBS Day 49
+(healthy)",-0.3433734681,Actinobacteria,Phylum,
+10,P1,"YBS Day 49
+(pathology)",0.5022396047,Actinobacteria,Phylum,
+11,P2,WBS Day -56,0.0524429878,Bacteroidetes,Phylum,
+12,P2,WBS Day -7,-0.2829008668,Bacteroidetes,Phylum,
+13,P2,WBS Day 21,0.6330324275,Bacteroidetes,Phylum,
+14,P2,"WBS Day 49
+(healthy)",1.3590095346,Bacteroidetes,Phylum,
+15,P2,"WBS Day 49
+(pathology)",0.5007665907,Bacteroidetes,Phylum,
+16,P2,YBS Day -56,-0.2710444519,Bacteroidetes,Phylum,
+17,P2,YBS Day -7,-0.4660647086,Bacteroidetes,Phylum,
+18,P2,YBS Day 21,-0.2725420797,Bacteroidetes,Phylum,
+19,P2,"YBS Day 49
+(healthy)",0.3307473055,Bacteroidetes,Phylum,
+20,P2,"YBS Day 49
+(pathology)",-0.5472485755,Bacteroidetes,Phylum,
+23,P5,WBS Day -56,0.6328884212,Firmicutes,Phylum,
+24,P5,WBS Day -7,-0.6428585483,Firmicutes,Phylum,
+25,P5,WBS Day 21,0.0089777258,Firmicutes,Phylum,
+26,P5,"WBS Day 49
+(healthy)",0.6888279543,Firmicutes,Phylum,
+27,P5,"WBS Day 49
+(pathology)",0.0497392987,Firmicutes,Phylum,
+28,P5,YBS Day -56,0.6133175089,Firmicutes,Phylum,
+29,P5,YBS Day -7,-0.6126406459,Firmicutes,Phylum,
+30,P5,YBS Day 21,-0.4267978651,Firmicutes,Phylum,
+31,P5,"YBS Day 49
+(healthy)",0.6178067001,Firmicutes,Phylum,
+32,P5,"YBS Day 49
+(pathology)",-0.1826028184,Firmicutes,Phylum,
+33,P6,WBS Day -56,-0.1268377388,Fusobacteria,Phylum,
+34,P6,WBS Day -7,0.8750520579,Fusobacteria,Phylum,
+35,P6,WBS Day 21,-0.1259391908,Fusobacteria,Phylum,
+36,P6,"WBS Day 49
+(healthy)",-0.1281250727,Fusobacteria,Phylum,
+37,P6,"WBS Day 49
+(pathology)",-0.107521234,Fusobacteria,Phylum,
+38,P6,YBS Day -56,-0.1275617738,Fusobacteria,Phylum,
+39,P6,YBS Day -7,-0.1271529574,Fusobacteria,Phylum,
+40,P6,YBS Day 21,-0.1278580832,Fusobacteria,Phylum,
+41,P6,"YBS Day 49
+(healthy)",-0.1281250727,Fusobacteria,Phylum,
+42,P6,"YBS Day 49
+(pathology)",-0.1259351678,Fusobacteria,Phylum,
+43,P7,WBS Day -56,-0.1150943143,Proteobacteria,Phylum,
+44,P7,WBS Day -7,-0.5402898861,Proteobacteria,Phylum,
+45,P7,WBS Day 21,0.173365333,Proteobacteria,Phylum,
+46,P7,"WBS Day 49
+(healthy)",-0.5319817889,Proteobacteria,Phylum,
+47,P7,"WBS Day 49
+(pathology)",1.0170397204,Proteobacteria,Phylum,
+48,P7,YBS Day -56,0.2775788485,Proteobacteria,Phylum,
+49,P7,YBS Day -7,-0.3454464496,Proteobacteria,Phylum,
+50,P7,YBS Day 21,-0.045689109,Proteobacteria,Phylum,
+51,P7,"YBS Day 49
+(healthy)",-0.4465373674,Proteobacteria,Phylum,
+52,P7,"YBS Day 49
+(pathology)",0.3781198362,Proteobacteria,Phylum,
+53,P8,WBS Day -56,-0.1991810925,Tenericutes,Phylum,
+54,P8,WBS Day -7,-0.2527365347,Tenericutes,Phylum,
+55,P8,WBS Day 21,-0.1778149988,Tenericutes,Phylum,
+56,P8,"WBS Day 49
+(healthy)",-0.2296863208,Tenericutes,Phylum,
+57,P8,"WBS Day 49
+(pathology)",0.1766073323,Tenericutes,Phylum,
+58,P8,YBS Day -56,-0.2291247092,Tenericutes,Phylum,
+59,P8,YBS Day -7,-0.2526394958,Tenericutes,Phylum,
+60,P8,YBS Day 21,0.1821063353,Tenericutes,Phylum,
+61,P8,"YBS Day 49
+(healthy)",-0.1102825564,Tenericutes,Phylum,
+62,P8,"YBS Day 49
+(pathology)",1.8189957098,Tenericutes,Phylum,
+1100,F1,WBS Day -56,0.3357952539,Acidaminococcaceae,Family,
+2100,F1,WBS Day -7,-0.7251958109,Acidaminococcaceae,Family,
+3100,F1,WBS Day 21,-0.0868422877,Acidaminococcaceae,Family,
+4100,F1,"WBS Day 49
+(healthy)",1.2884403179,Acidaminococcaceae,Family,
+5100,F1,"WBS Day 49
+(pathology)",-0.3879420126,Acidaminococcaceae,Family,
+6100,F1,YBS Day -56,0.4219551619,Acidaminococcaceae,Family,
+731,F1,YBS Day -7,-0.000904463,Acidaminococcaceae,Family,
+810,F1,YBS Day 21,-0.299062786,Acidaminococcaceae,Family,
+910,F1,"YBS Day 49
+(healthy)",0.3323358183,Acidaminococcaceae,Family,
+1010,F1,"YBS Day 49
+(pathology)",0.3138669052,Acidaminococcaceae,Family,
+1710,F16,WBS Day -56,-0.2759087492,Coriobacteriaceae,Family,
+1810,F16,WBS Day -7,-0.0405773752,Coriobacteriaceae,Family,
+1910,F16,WBS Day 21,-0.3914266615,Coriobacteriaceae,Family,
+2010,F16,"WBS Day 49
+(healthy)",0.02817241,Coriobacteriaceae,Family,
+21,F16,"WBS Day 49
+(pathology)",0.4445759881,Coriobacteriaceae,Family,
+22,F16,YBS Day -56,-0.3741755358,Coriobacteriaceae,Family,
+2310,F16,YBS Day -7,1.0757629925,Coriobacteriaceae,Family,
+2410,F16,YBS Day 21,0.1833268434,Coriobacteriaceae,Family,
+2510,F16,"YBS Day 49
+(healthy)",-0.7432149174,Coriobacteriaceae,Family,
+2610,F16,"YBS Day 49
+(pathology)",-0.2917382982,Coriobacteriaceae,Family,
+2810,F18,WBS Day -56,-0.1299723902,Enterobacteriaceae,Family,
+2910,F18,WBS Day -7,-0.1308744469,Enterobacteriaceae,Family,
+3010,F18,WBS Day 21,-0.1292239382,Enterobacteriaceae,Family,
+3110,F18,"WBS Day 49
+(healthy)",-0.1308744469,Enterobacteriaceae,Family,
+3210,F18,"WBS Day 49
+(pathology)",1.2379205847,Enterobacteriaceae,Family,
+3310,F18,YBS Day -56,-0.1237621902,Enterobacteriaceae,Family,
+3410,F18,YBS Day -7,-0.1308744469,Enterobacteriaceae,Family,
+3510,F18,YBS Day 21,-0.1293236806,Enterobacteriaceae,Family,
+3610,F18,"YBS Day 49
+(healthy)",-0.1308744469,Enterobacteriaceae,Family,
+3710,F18,"YBS Day 49
+(pathology)",-0.1125070207,Enterobacteriaceae,Family,
+5210,F23,WBS Day -56,1.0832689486,Lachnospiraceae,Family,
+5310,F23,WBS Day -7,-0.5817553494,Lachnospiraceae,Family,+
+5410,F23,WBS Day 21,-0.7792671392,Lachnospiraceae,Family,
+5510,F23,"WBS Day 49
+(healthy)",1.169030394,Lachnospiraceae,Family,+
+5610,F23,"WBS Day 49
+(pathology)",0.4378105506,Lachnospiraceae,Family,
+5710,F23,YBS Day -56,0.7876806422,Lachnospiraceae,Family,
+5810,F23,YBS Day -7,-0.474962306,Lachnospiraceae,Family,+
+5910,F23,YBS Day 21,-0.7006797192,Lachnospiraceae,Family,
+6010,F23,"YBS Day 49
+(healthy)",0.2218011844,Lachnospiraceae,Family,
+6110,F23,"YBS Day 49
+(pathology)",-0.1316023614,Lachnospiraceae,Family,
+89,F32,WBS Day -56,-0.1746997505,Porphyromonadaceae,Family,
+90,F32,WBS Day -7,-0.261684795,Porphyromonadaceae,Family,
+91,F32,WBS Day 21,0.0725523681,Porphyromonadaceae,Family,
+92,F32,"WBS Day 49
+(healthy)",0.8712154538,Porphyromonadaceae,Family,
+93,F32,"WBS Day 49
+(pathology)",1.2082602218,Porphyromonadaceae,Family,
+94,F32,YBS Day -56,-0.4359660635,Porphyromonadaceae,Family,
+95,F32,YBS Day -7,-0.2192639854,Porphyromonadaceae,Family,
+96,F32,YBS Day 21,-0.262853523,Porphyromonadaceae,Family,
+97,F32,"YBS Day 49
+(healthy)",-0.0764451553,Porphyromonadaceae,Family,
+98,F32,"YBS Day 49
+(pathology)",0.3922785946,Porphyromonadaceae,Family,
+99,F33,WBS Day -56,-0.0433937897,Prevotellaceae,Family,
+100,F33,WBS Day -7,-0.278357686,Prevotellaceae,Family,
+101,F33,WBS Day 21,0.7173068362,Prevotellaceae,Family,
+102,F33,"WBS Day 49
+(healthy)",0.7499008198,Prevotellaceae,Family,
+103,F33,"WBS Day 49
+(pathology)",-0.2606517676,Prevotellaceae,Family,
+104,F33,YBS Day -56,-0.4330769494,Prevotellaceae,Family,
+105,F33,YBS Day -7,-0.1845961247,Prevotellaceae,Family,
+106,F33,YBS Day 21,0.1584586064,Prevotellaceae,Family,
+107,F33,"YBS Day 49
+(healthy)",0.9937187549,Prevotellaceae,Family,
+108,F33,"YBS Day 49
+(pathology)",-0.850373299,Prevotellaceae,Family,
+141,F39,WBS Day -56,0.4825314084,Sutterellaceae,Family,
+142,F39,WBS Day -7,-0.4330125099,Sutterellaceae,Family,
+143,F39,WBS Day 21,-0.1816863678,Sutterellaceae,Family,
+144,F39,"WBS Day 49
+(healthy)",-0.5748799561,Sutterellaceae,Family,
+145,F39,"WBS Day 49
+(pathology)",-0.2422120844,Sutterellaceae,Family,
+146,F39,YBS Day -56,0.873491901,Sutterellaceae,Family,
+147,F39,YBS Day -7,-0.3729421965,Sutterellaceae,Family,
+148,F39,YBS Day 21,-0.3571222678,Sutterellaceae,Family,
+149,F39,"YBS Day 49
+(healthy)",-0.6419512764,Sutterellaceae,Family,
+150,F39,"YBS Day 49
+(pathology)",1.2701894465,Sutterellaceae,Family,
+152,F40,WBS Day -56,-0.3652149815,Veillonellaceae,Family,
+153,F40,WBS Day -7,-0.0832443987,Veillonellaceae,Family,
+154,F40,WBS Day 21,0.7617565339,Veillonellaceae,Family,
+155,F40,"WBS Day 49
+(healthy)",-0.5668412893,Veillonellaceae,Family,
+156,F40,"WBS Day 49
+(pathology)",-0.3610269329,Veillonellaceae,Family,
+157,F40,YBS Day -56,-0.1002266547,Veillonellaceae,Family,
+158,F40,YBS Day -7,-0.2297845425,Veillonellaceae,Family,
+159,F40,YBS Day 21,0.2577956626,Veillonellaceae,Family,
+160,F40,"YBS Day 49
+(healthy)",0.5204865206,Veillonellaceae,Family,
+161,F40,"YBS Day 49
+(pathology)",-0.1776887148,Veillonellaceae,Family,
+197,F5,WBS Day -56,-0.1993391309,Anaeroplasmataceae,Family,
+198,F5,WBS Day -7,-0.2528934004,Anaeroplasmataceae,Family,
+199,F5,WBS Day 21,-0.1774268432,Anaeroplasmataceae,Family,
+200,F5,"WBS Day 49
+(healthy)",-0.2298063317,Anaeroplasmataceae,Family,
+201,F5,"WBS Day 49
+(pathology)",0.1774785524,Anaeroplasmataceae,Family,
+202,F5,YBS Day -56,-0.2292919315,Anaeroplasmataceae,Family,
+203,F5,YBS Day -7,-0.2527919521,Anaeroplasmataceae,Family,
+204,F5,YBS Day 21,0.1819683722,Anaeroplasmataceae,Family,
+205,F5,"YBS Day 49
+(healthy)",-0.1106292485,Anaeroplasmataceae,Family,
+206,F5,"YBS Day 49
+(pathology)",1.8188643577,Anaeroplasmataceae,Family,
+228,F9,WBS Day -56,-0.1599883811,Bifidobacteriaceae,Family,
+229,F9,WBS Day -7,0.1021110047,Bifidobacteriaceae,Family,
+230,F9,WBS Day 21,-0.3678398473,Bifidobacteriaceae,Family,
+231,F9,"WBS Day 49
+(healthy)",-1.202180922,Bifidobacteriaceae,Family,
+232,F9,"WBS Day 49
+(pathology)",-0.5273781162,Bifidobacteriaceae,Family,
+233,F9,YBS Day -56,0.1212853269,Bifidobacteriaceae,Family,
+234,F9,YBS Day -7,0.4560741575,Bifidobacteriaceae,Family,
+235,F9,YBS Day 21,0.3749230265,Bifidobacteriaceae,Family,
+236,F9,"YBS Day 49
+(healthy)",-0.2186076062,Bifidobacteriaceae,Family,
+237,F9,"YBS Day 49
+(pathology)",0.5576346671,Bifidobacteriaceae,Family,
+2311,G13,WBS Day -56,-0.152789108,Bifidobacterium,Genus,
+2411,G13,WBS Day -7,0.1005170502,Bifidobacterium,Genus,
+2511,G13,WBS Day 21,-0.3706674655,Bifidobacterium,Genus,
+2611,G13,"WBS Day 49
+(healthy)",-1.2030357972,Bifidobacterium,Genus,
+2710,G13,"WBS Day 49
+(pathology)",-0.530424892,Bifidobacterium,Genus,
+2811,G13,YBS Day -56,0.1298547525,Bifidobacterium,Genus,
+2911,G13,YBS Day -7,0.4558204554,Bifidobacterium,Genus,
+3011,G13,YBS Day 21,0.369416122,Bifidobacterium,Genus,
+3111,G13,"YBS Day 49
+(healthy)",-0.2159363382,Bifidobacterium,Genus,
+3211,G13,"YBS Day 49
+(pathology)",0.5487879614,Bifidobacterium,Genus,
+1291,G44,WBS Day -56,-0.4504836764,Megasphaera,Genus,
+1301,G44,WBS Day -7,0.2126301922,Megasphaera,Genus,
+1311,G44,WBS Day 21,0.3820722443,Megasphaera,Genus,
+1321,G44,"WBS Day 49
+(healthy)",-0.5290097657,Megasphaera,Genus,
+1331,G44,"WBS Day 49
+(pathology)",-0.2164556214,Megasphaera,Genus,
+1341,G44,YBS Day -56,-0.2801377103,Megasphaera,Genus,
+1351,G44,YBS Day -7,-0.3949478088,Megasphaera,Genus,
+1361,G44,YBS Day 21,0.4249470767,Megasphaera,Genus,
+1371,G44,"YBS Day 49
+(healthy)",0.8757871596,Megasphaera,Genus,
+1381,G44,"YBS Day 49
+(pathology)",-0.07475948,Megasphaera,Genus,
+185,G54,WBS Day -56,0.3758981416,Phascolarctobacterium,Genus,
+186,G54,WBS Day -7,-0.6472202692,Phascolarctobacterium,Genus,
+1871,G54,WBS Day 21,-0.0538437632,Phascolarctobacterium,Genus,
+1881,G54,"WBS Day 49
+(healthy)",1.4169830379,Phascolarctobacterium,Genus,
+1891,G54,"WBS Day 49
+(pathology)",-0.4215511762,Phascolarctobacterium,Genus,
+1901,G54,YBS Day -56,0.2898299024,Phascolarctobacterium,Genus,
+1912,G54,YBS Day -7,0.0560846522,Phascolarctobacterium,Genus,
+1921,G54,YBS Day 21,-0.3177373427,Phascolarctobacterium,Genus,
+1931,G54,"YBS Day 49
+(healthy)",0.4411300274,Phascolarctobacterium,Genus,
+1941,G54,"YBS Day 49
+(pathology)",0.0766825757,Phascolarctobacterium,Genus,
+2161,G66,WBS Day -56,-0.3124149091,Succinatimonas,Genus,
+2171,G66,WBS Day -7,0.4801019341,Succinatimonas,Genus,
+2181,G66,WBS Day 21,0.8734044907,Succinatimonas,Genus,
+2191,G66,"WBS Day 49
+(healthy)",0.0148861337,Succinatimonas,Genus,
+2201,G66,"WBS Day 49
+(pathology)",0.5174353304,Succinatimonas,Genus,
+2211,G66,YBS Day -56,-0.3588401991,Succinatimonas,Genus,
+2221,G66,YBS Day -7,-0.3584924875,Succinatimonas,Genus,
+2231,G66,YBS Day 21,-0.3637699592,Succinatimonas,Genus,
+2241,G66,"YBS Day 49
+(healthy)",-0.3398038428,Succinatimonas,Genus,
+2251,G66,"YBS Day 49
+(pathology)",-0.3637699592,Succinatimonas,Genus,
+2261,G67,WBS Day -56,0.4825406883,Sutterella,Genus,
+2271,G67,WBS Day -7,-0.4323383268,Sutterella,Genus,
+2281,G67,WBS Day 21,-0.1813478181,Sutterella,Genus,
+2291,G67,"WBS Day 49
+(healthy)",-0.5746355334,Sutterella,Genus,
+2301,G67,"WBS Day 49
+(pathology)",-0.2421649565,Sutterella,Genus,
+2312,G67,YBS Day -56,0.8745002576,Sutterella,Genus,
+2321,G67,YBS Day -7,-0.373204771,Sutterella,Genus,
+2331,G67,YBS Day 21,-0.3574783014,Sutterella,Genus,
+2341,G67,"YBS Day 49
+(healthy)",-0.6417202066,Sutterella,Genus,
+2351,G67,"YBS Day 49
+(pathology)",1.2669419512,Sutterella,Genus,
+294,G8,WBS Day -56,-0.1993664886,Asteroleplasma,Genus,
+295,G8,WBS Day -7,-0.2529684325,Asteroleplasma,Genus,
+296,G8,WBS Day 21,-0.1773316307,Asteroleplasma,Genus,
+297,G8,"WBS Day 49
+(healthy)",-0.2298606408,Asteroleplasma,Genus,
+298,G8,"WBS Day 49
+(pathology)",0.1779446158,Asteroleplasma,Genus,
+299,G8,YBS Day -56,-0.2293326885,Asteroleplasma,Genus,
+300,G8,YBS Day -7,-0.2528690109,Asteroleplasma,Genus,
+301,G8,YBS Day 21,0.1817999733,Asteroleplasma,Genus,
+302,G8,"YBS Day 49
+(healthy)",-0.1106354581,Asteroleplasma,Genus,
+303,G8,"YBS Day 49
+(pathology)",1.8187854106,Asteroleplasma,Genus,
+6112,OTU_129,WBS Day -56,0.4133598289,OTU129 Bifidobacterium hapali,OTU,
+6212,OTU_129,WBS Day -7,-0.5934836594,OTU129 Bifidobacterium hapali,OTU,
+6312,OTU_129,WBS Day 21,-0.6276397072,OTU129 Bifidobacterium hapali,OTU,
+6412,OTU_129,"WBS Day 49
+(healthy)",-0.7465607283,OTU129 Bifidobacterium hapali,OTU,
+6512,OTU_129,"WBS Day 49
+(pathology)",0.0926461139,OTU129 Bifidobacterium hapali,OTU,
+6611,OTU_129,YBS Day -56,0.2524866846,OTU129 Bifidobacterium hapali,OTU,
+6711,OTU_129,YBS Day -7,0.7306006047,OTU129 Bifidobacterium hapali,OTU,
+6811,OTU_129,YBS Day 21,-0.3905954991,OTU129 Bifidobacterium hapali,OTU,
+6911,OTU_129,"YBS Day 49
+(healthy)",0.2674306313,OTU129 Bifidobacterium hapali,OTU,
+7011,OTU_129,"YBS Day 49
+(pathology)",0.3974240574,OTU129 Bifidobacterium hapali,OTU,
+7112,OTU_13,WBS Day -56,1.0829679453,OTU13 Lachnospiraceae sp.,OTU,
+7211,OTU_13,WBS Day -7,-0.3890414392,OTU13 Lachnospiraceae sp.,OTU,+
+734,OTU_13,WBS Day 21,-0.5220949364,OTU13 Lachnospiraceae sp.,OTU,
+741,OTU_13,"WBS Day 49
+(healthy)",0.3267923836,OTU13 Lachnospiraceae sp.,OTU,+
+751,OTU_13,"WBS Day 49
+(pathology)",0.9022336033,OTU13 Lachnospiraceae sp.,OTU,
+761,OTU_13,YBS Day -56,0.5441531072,OTU13 Lachnospiraceae sp.,OTU,
+771,OTU_13,YBS Day -7,-0.4384341311,OTU13 Lachnospiraceae sp.,OTU,
+782,OTU_13,YBS Day 21,-0.5638604823,OTU13 Lachnospiraceae sp.,OTU,
+792,OTU_13,"YBS Day 49
+(healthy)",-0.5463776596,OTU13 Lachnospiraceae sp.,OTU,
+802,OTU_13,"YBS Day 49
+(pathology)",-0.3977490642,OTU13 Lachnospiraceae sp.,OTU,
+814,OTU_136,WBS Day -56,-0.1017294973,OTU136 Megamonas sp.,OTU,
+822,OTU_136,WBS Day -7,-0.3039982933,OTU136 Megamonas sp.,OTU,
+832,OTU_136,WBS Day 21,0.5027809068,OTU136 Megamonas sp.,OTU,
+842,OTU_136,"WBS Day 49
+(healthy)",-0.3192457093,OTU136 Megamonas sp.,OTU,
+852,OTU_136,"WBS Day 49
+(pathology)",0.0237840058,OTU136 Megamonas sp.,OTU,
+862,OTU_136,YBS Day -56,-0.5685114835,OTU136 Megamonas sp.,OTU,
+872,OTU_136,YBS Day -7,0.8338932319,OTU136 Megamonas sp.,OTU,
+881,OTU_136,YBS Day 21,0.0462656022,OTU136 Megamonas sp.,OTU,
+892,OTU_136,"YBS Day 49
+(healthy)",0.0307895519,OTU136 Megamonas sp.,OTU,
+902,OTU_136,"YBS Day 49
+(pathology)",-0.7242436395,OTU136 Megamonas sp.,OTU,
+1014,OTU_14,WBS Day -56,-0.2171453309,OTU14 Lachnospiraceae sp.,OTU,
+1021,OTU_14,WBS Day -7,-0.3176878591,OTU14 Lachnospiraceae sp.,OTU,
+1031,OTU_14,WBS Day 21,-0.368926034,OTU14 Lachnospiraceae sp.,OTU,
+1041,OTU_14,"WBS Day 49
+(healthy)",0.1343175594,OTU14 Lachnospiraceae sp.,OTU,
+1051,OTU_14,"WBS Day 49
+(pathology)",0.9958352078,OTU14 Lachnospiraceae sp.,OTU,
+1061,OTU_14,YBS Day -56,-0.0010207474,OTU14 Lachnospiraceae sp.,OTU,
+1071,OTU_14,YBS Day -7,-0.2873402071,OTU14 Lachnospiraceae sp.,OTU,
+1082,OTU_14,YBS Day 21,-0.3662459224,OTU14 Lachnospiraceae sp.,OTU,
+1091,OTU_14,"YBS Day 49
+(healthy)",0.32871027,OTU14 Lachnospiraceae sp.,OTU,
+1103,OTU_14,"YBS Day 49
+(pathology)",1.2271103406,OTU14 Lachnospiraceae sp.,OTU,+
+1113,OTU_145,WBS Day -56,-0.3492927151,OTU145 Bifidobacterium avesanii,OTU,
+1122,OTU_145,WBS Day -7,-0.3426162064,OTU145 Bifidobacterium avesanii,OTU,
+1132,OTU_145,WBS Day 21,0.3030439312,OTU145 Bifidobacterium avesanii,OTU,
+1142,OTU_145,"WBS Day 49
+(healthy)",-0.5789051363,OTU145 Bifidobacterium avesanii,OTU,
+1152,OTU_145,"WBS Day 49
+(pathology)",-0.4026872616,OTU145 Bifidobacterium avesanii,OTU,
+1162,OTU_145,YBS Day -56,-0.1667526282,OTU145 Bifidobacterium avesanii,OTU,
+1172,OTU_145,YBS Day -7,-0.0140434139,OTU145 Bifidobacterium avesanii,OTU,
+1181,OTU_145,YBS Day 21,0.8931166367,OTU145 Bifidobacterium avesanii,OTU,
+1192,OTU_145,"YBS Day 49
+(healthy)",0.2513546972,OTU145 Bifidobacterium avesanii,OTU,
+1201,OTU_145,"YBS Day 49
+(pathology)",-0.0047824451,OTU145 Bifidobacterium avesanii,OTU,
+1313,OTU_15,WBS Day -56,-0.2830948601,OTU15 Megasphaera paucivorans,OTU,
+1322,OTU_15,WBS Day -7,0.3085905577,OTU15 Megasphaera paucivorans,OTU,
+1332,OTU_15,WBS Day 21,0.2696206021,OTU15 Megasphaera paucivorans,OTU,
+1342,OTU_15,"WBS Day 49
+(healthy)",-0.545548909,OTU15 Megasphaera paucivorans,OTU,
+1352,OTU_15,"WBS Day 49
+(pathology)",-0.2998633592,OTU15 Megasphaera paucivorans,OTU,
+1362,OTU_15,YBS Day -56,-0.1366928181,OTU15 Megasphaera paucivorans,OTU,
+1372,OTU_15,YBS Day -7,-0.3328571177,OTU15 Megasphaera paucivorans,OTU,
+1382,OTU_15,YBS Day 21,0.2994198955,OTU15 Megasphaera paucivorans,OTU,
+1391,OTU_15,"YBS Day 49
+(healthy)",0.7473646483,OTU15 Megasphaera paucivorans,OTU,
+1401,OTU_15,"YBS Day 49
+(pathology)",-0.2747676735,OTU15 Megasphaera paucivorans,OTU,
+1814,OTU_2,WBS Day -56,0.1139541773,OTU2 Bifidobacterium aesculapii,OTU,
+1822,OTU_2,WBS Day -7,0.6881301722,OTU2 Bifidobacterium aesculapii,OTU,
+1832,OTU_2,WBS Day 21,-0.2147443993,OTU2 Bifidobacterium aesculapii,OTU,
+1841,OTU_2,"WBS Day 49
+(healthy)",-0.2863774426,OTU2 Bifidobacterium aesculapii,OTU,
+1851,OTU_2,"WBS Day 49
+(pathology)",-0.0879065963,OTU2 Bifidobacterium aesculapii,OTU,
+1861,OTU_2,YBS Day -56,-0.4790237183,OTU2 Bifidobacterium aesculapii,OTU,
+1872,OTU_2,YBS Day -7,0.3199856393,OTU2 Bifidobacterium aesculapii,OTU,
+1882,OTU_2,YBS Day 21,-0.5890229296,OTU2 Bifidobacterium aesculapii,OTU,
+1892,OTU_2,"YBS Day 49
+(healthy)",-0.7449213368,OTU2 Bifidobacterium aesculapii,OTU,
+1902,OTU_2,"YBS Day 49
+(pathology)",1.3414120692,OTU2 Bifidobacterium aesculapii,OTU,+
+1914,OTU_20,WBS Day -56,0.3351415752,OTU20 Phascolarctobacterium succinatutens,OTU,
+1922,OTU_20,WBS Day -7,-0.7243726442,OTU20 Phascolarctobacterium succinatutens,OTU,
+1932,OTU_20,WBS Day 21,-0.084086768,OTU20 Phascolarctobacterium succinatutens,OTU,
+1942,OTU_20,"WBS Day 49
+(healthy)",1.2812707513,OTU20 Phascolarctobacterium succinatutens,OTU,
+1951,OTU_20,"WBS Day 49
+(pathology)",-0.3841245065,OTU20 Phascolarctobacterium succinatutens,OTU,
+1961,OTU_20,YBS Day -56,0.4189348567,OTU20 Phascolarctobacterium succinatutens,OTU,
+1971,OTU_20,YBS Day -7,-0.0034857083,OTU20 Phascolarctobacterium succinatutens,OTU,
+1981,OTU_20,YBS Day 21,-0.3027266698,OTU20 Phascolarctobacterium succinatutens,OTU,
+1991,OTU_20,"YBS Day 49
+(healthy)",0.3268408601,OTU20 Phascolarctobacterium succinatutens,OTU,
+2001,OTU_20,"YBS Day 49
+(pathology)",0.3299012407,OTU20 Phascolarctobacterium succinatutens,OTU,
+2314,OTU_24,WBS Day -56,0.3549126465,OTU24 Megamonas sp.,OTU,
+2322,OTU_24,WBS Day -7,-0.5627838584,OTU24 Megamonas sp.,OTU,
+2332,OTU_24,WBS Day 21,0.599120064,OTU24 Megamonas sp.,OTU,+
+2342,OTU_24,"WBS Day 49
+(healthy)",-0.0743508747,OTU24 Megamonas sp.,OTU,
+2352,OTU_24,"WBS Day 49
+(pathology)",-0.8535106774,OTU24 Megamonas sp.,OTU,+
+2361,OTU_24,YBS Day -56,0.400316627,OTU24 Megamonas sp.,OTU,
+2371,OTU_24,YBS Day -7,0.3418692442,OTU24 Megamonas sp.,OTU,
+2381,OTU_24,YBS Day 21,-0.1030532683,OTU24 Megamonas sp.,OTU,
+2391,OTU_24,"YBS Day 49
+(healthy)",-0.2696858578,OTU24 Megamonas sp.,OTU,
+2401,OTU_24,"YBS Day 49
+(pathology)",-0.4736355988,OTU24 Megamonas sp.,OTU,#
+271,OTU_28,WBS Day -56,-0.4218695471,OTU28 Parabacteroides sp.,OTU,
+2721,OTU_28,WBS Day -7,0.0651811031,OTU28 Parabacteroides sp.,OTU,
+2731,OTU_28,WBS Day 21,0.6201314627,OTU28 Parabacteroides sp.,OTU,
+2741,OTU_28,"WBS Day 49
+(healthy)",1.7777000857,OTU28 Parabacteroides sp.,OTU,
+2751,OTU_28,"WBS Day 49
+(pathology)",-0.3262382766,OTU28 Parabacteroides sp.,OTU,
+2761,OTU_28,YBS Day -56,-0.449726717,OTU28 Parabacteroides sp.,OTU,
+2771,OTU_28,YBS Day -7,-0.1523510774,OTU28 Parabacteroides sp.,OTU,
+2781,OTU_28,YBS Day 21,-0.0336690045,OTU28 Parabacteroides sp.,OTU,
+2791,OTU_28,"YBS Day 49
+(healthy)",0.7694566064,OTU28 Parabacteroides sp.,OTU,
+2801,OTU_28,"YBS Day 49
+(pathology)",-0.424341674,OTU28 Parabacteroides sp.,OTU,
+2913,OTU_3,WBS Day -56,-0.4896081404,OTU3 Parolsenella catena,OTU,
+292,OTU_3,WBS Day -7,0.1343390618,OTU3 Parolsenella catena,OTU,
+293,OTU_3,WBS Day 21,-0.2062148109,OTU3 Parolsenella catena,OTU,
+2941,OTU_3,"WBS Day 49
+(healthy)",-0.4481299488,OTU3 Parolsenella catena,OTU,
+2951,OTU_3,"WBS Day 49
+(pathology)",-0.0850551211,OTU3 Parolsenella catena,OTU,
+2961,OTU_3,YBS Day -56,-0.5127413301,OTU3 Parolsenella catena,OTU,
+2971,OTU_3,YBS Day -7,1.4841144911,OTU3 Parolsenella catena,OTU,+ #
+2981,OTU_3,YBS Day 21,0.5520355514,OTU3 Parolsenella catena,OTU,
+2991,OTU_3,"YBS Day 49
+(healthy)",-0.5049337153,OTU3 Parolsenella catena,OTU,
+3001,OTU_3,"YBS Day 49
+(pathology)",-1.067268274,OTU3 Parolsenella catena,OTU,+
+3213,OTU_32,WBS Day -56,0.4591290473,OTU32 Parolsenella sp.,OTU,
+3221,OTU_32,WBS Day -7,-0.3403839851,OTU32 Parolsenella sp.,OTU,
+3231,OTU_32,WBS Day 21,-0.3109695629,OTU32 Parolsenella sp.,OTU,
+3241,OTU_32,"WBS Day 49
+(healthy)",0.428035389,OTU32 Parolsenella sp.,OTU,
+3251,OTU_32,"WBS Day 49
+(pathology)",-0.6600645376,OTU32 Parolsenella sp.,OTU,
+3261,OTU_32,YBS Day -56,0.0221738402,OTU32 Parolsenella sp.,OTU,
+3271,OTU_32,YBS Day -7,0.6000613349,OTU32 Parolsenella sp.,OTU,
+3281,OTU_32,YBS Day 21,0.5778791302,OTU32 Parolsenella sp.,OTU,
+3291,OTU_32,"YBS Day 49
+(healthy)",-0.3977595176,OTU32 Parolsenella sp.,OTU,
+3301,OTU_32,"YBS Day 49
+(pathology)",-0.8419409794,OTU32 Parolsenella sp.,OTU,
+3512,OTU_35,WBS Day -56,0.1309040342,OTU35 Bifidobacterium moukalabense,OTU,
+3521,OTU_35,WBS Day -7,-0.1781192194,OTU35 Bifidobacterium moukalabense,OTU,
+3531,OTU_35,WBS Day 21,-0.4238455778,OTU35 Bifidobacterium moukalabense,OTU,
+3541,OTU_35,"WBS Day 49
+(healthy)",-0.4481173841,OTU35 Bifidobacterium moukalabense,OTU,
+3551,OTU_35,"WBS Day 49
+(pathology)",0.4877549558,OTU35 Bifidobacterium moukalabense,OTU,
+3561,OTU_35,YBS Day -56,0.0054548343,OTU35 Bifidobacterium moukalabense,OTU,
+3571,OTU_35,YBS Day -7,-0.0464773173,OTU35 Bifidobacterium moukalabense,OTU,
+3581,OTU_35,YBS Day 21,-0.3939022315,OTU35 Bifidobacterium moukalabense,OTU,
+359,OTU_35,"YBS Day 49
+(healthy)",-0.4201528739,OTU35 Bifidobacterium moukalabense,OTU,
+3601,OTU_35,"YBS Day 49
+(pathology)",1.7245500872,OTU35 Bifidobacterium moukalabense,OTU,
+371,OTU_37,WBS Day -56,-0.1634476037,OTU37 Muribaculaceae sp.,OTU,
+372,OTU_37,WBS Day -7,-0.2935256835,OTU37 Muribaculaceae sp.,OTU,
+373,OTU_37,WBS Day 21,-0.269274853,OTU37 Muribaculaceae sp.,OTU,
+374,OTU_37,"WBS Day 49
+(healthy)",-0.0552857914,OTU37 Muribaculaceae sp.,OTU,
+375,OTU_37,"WBS Day 49
+(pathology)",1.2247818931,OTU37 Muribaculaceae sp.,OTU,
+376,OTU_37,YBS Day -56,-0.2473829211,OTU37 Muribaculaceae sp.,OTU,
+377,OTU_37,YBS Day -7,-0.3418720515,OTU37 Muribaculaceae sp.,OTU,+
+378,OTU_37,YBS Day 21,-0.2406160125,OTU37 Muribaculaceae sp.,OTU,+
+379,OTU_37,"YBS Day 49
+(healthy)",-0.2588635766,OTU37 Muribaculaceae sp.,OTU,
+380,OTU_37,"YBS Day 49
+(pathology)",1.5615718834,OTU37 Muribaculaceae sp.,OTU,
+381,OTU_38,WBS Day -56,0.0860722871,OTU38 Parolsenella sp.,OTU,
+382,OTU_38,WBS Day -7,-0.3570493753,OTU38 Parolsenella sp.,OTU,
+383,OTU_38,WBS Day 21,-0.4701518993,OTU38 Parolsenella sp.,OTU,
+384,OTU_38,"WBS Day 49
+(healthy)",-0.5753562289,OTU38 Parolsenella sp.,OTU,
+385,OTU_38,"WBS Day 49
+(pathology)",0.0854824194,OTU38 Parolsenella sp.,OTU,
+386,OTU_38,YBS Day -56,1.2884760104,OTU38 Parolsenella sp.,OTU,
+387,OTU_38,YBS Day -7,-0.2945530971,OTU38 Parolsenella sp.,OTU,+
+388,OTU_38,YBS Day 21,-0.3674912419,OTU38 Parolsenella sp.,OTU,
+389,OTU_38,"YBS Day 49
+(healthy)",-0.0882058622,OTU38 Parolsenella sp.,OTU,
+390,OTU_38,"YBS Day 49
+(pathology)",0.4770549798,OTU38 Parolsenella sp.,OTU,
+401,OTU_4,WBS Day -56,-0.6135831651,OTU4 Bifidobacterium dentium,OTU,
+402,OTU_4,WBS Day -7,-0.5135020327,OTU4 Bifidobacterium dentium,OTU,
+403,OTU_4,WBS Day 21,0.2264031755,OTU4 Bifidobacterium dentium,OTU,
+404,OTU_4,"WBS Day 49
+(healthy)",-0.5450426154,OTU4 Bifidobacterium dentium,OTU,
+405,OTU_4,"WBS Day 49
+(pathology)",-0.1519758583,OTU4 Bifidobacterium dentium,OTU,
+406,OTU_4,YBS Day -56,-0.2903085644,OTU4 Bifidobacterium dentium,OTU,
+407,OTU_4,YBS Day -7,0.032527135,OTU4 Bifidobacterium dentium,OTU,
+408,OTU_4,YBS Day 21,1.2766007025,OTU4 Bifidobacterium dentium,OTU,
+409,OTU_4,"YBS Day 49
+(healthy)",0.175441119,OTU4 Bifidobacterium dentium,OTU,
+410,OTU_4,"YBS Day 49
+(pathology)",0.0887694749,OTU4 Bifidobacterium dentium,OTU,
+411,OTU_40,WBS Day -56,0.0509945635,OTU40 Bifidobacterium goeldii,OTU,
+412,OTU_40,WBS Day -7,0.0089487431,OTU40 Bifidobacterium goeldii,OTU,
+413,OTU_40,WBS Day 21,-0.2883762194,OTU40 Bifidobacterium goeldii,OTU,
+414,OTU_40,"WBS Day 49
+(healthy)",-0.4561608238,OTU40 Bifidobacterium goeldii,OTU,
+415,OTU_40,"WBS Day 49
+(pathology)",0.134644436,OTU40 Bifidobacterium goeldii,OTU,
+416,OTU_40,YBS Day -56,-0.169375105,OTU40 Bifidobacterium goeldii,OTU,
+417,OTU_40,YBS Day -7,-0.2712306614,OTU40 Bifidobacterium goeldii,OTU,
+418,OTU_40,YBS Day 21,-0.21677717,OTU40 Bifidobacterium goeldii,OTU,
+419,OTU_40,"YBS Day 49
+(healthy)",-0.413102252,OTU40 Bifidobacterium goeldii,OTU,
+420,OTU_40,"YBS Day 49
+(pathology)",2.2108477083,OTU40 Bifidobacterium goeldii,OTU,
+431,OTU_42,WBS Day -56,-0.1280634434,OTU42 Enterobacter hormaechei,OTU,
+432,OTU_42,WBS Day -7,-0.1280634434,OTU42 Enterobacter hormaechei,OTU,
+433,OTU_42,WBS Day 21,-0.1264161121,OTU42 Enterobacter hormaechei,OTU,
+434,OTU_42,"WBS Day 49
+(healthy)",-0.1280634434,OTU42 Enterobacter hormaechei,OTU,
+435,OTU_42,"WBS Day 49
+(pathology)",1.2190600721,OTU42 Enterobacter hormaechei,OTU,
+436,OTU_42,YBS Day -56,-0.1262928616,OTU42 Enterobacter hormaechei,OTU,
+437,OTU_42,YBS Day -7,-0.1280634434,OTU42 Enterobacter hormaechei,OTU,
+438,OTU_42,YBS Day 21,-0.1265186826,OTU42 Enterobacter hormaechei,OTU,
+439,OTU_42,"YBS Day 49
+(healthy)",-0.1280634434,OTU42 Enterobacter hormaechei,OTU,
+440,OTU_42,"YBS Day 49
+(pathology)",-0.1096589704,OTU42 Enterobacter hormaechei,OTU,
+461,OTU_45,WBS Day -56,0.5267866873,OTU45 Streptococcus sp.,OTU,
+462,OTU_45,WBS Day -7,0.2605403137,OTU45 Streptococcus sp.,OTU,
+463,OTU_45,WBS Day 21,0.2902044244,OTU45 Streptococcus sp.,OTU,
+464,OTU_45,"WBS Day 49
+(healthy)",0.3559908917,OTU45 Streptococcus sp.,OTU,
+465,OTU_45,"WBS Day 49
+(pathology)",-0.5141640449,OTU45 Streptococcus sp.,OTU,
+466,OTU_45,YBS Day -56,-0.1551354524,OTU45 Streptococcus sp.,OTU,
+467,OTU_45,YBS Day -7,0.0558314567,OTU45 Streptococcus sp.,OTU,
+468,OTU_45,YBS Day 21,-0.1913334704,OTU45 Streptococcus sp.,OTU,
+469,OTU_45,"YBS Day 49
+(healthy)",-0.498329202,OTU45 Streptococcus sp.,OTU,
+470,OTU_45,"YBS Day 49
+(pathology)",-0.482208095,OTU45 Streptococcus sp.,OTU,
+481,OTU_47,WBS Day -56,-0.3095108136,OTU47 Succinatimonas hippei,OTU,
+482,OTU_47,WBS Day -7,0.4883603146,OTU47 Succinatimonas hippei,OTU,
+483,OTU_47,WBS Day 21,0.8648797041,OTU47 Succinatimonas hippei,OTU,
+484,OTU_47,"WBS Day 49
+(healthy)",0.0150677077,OTU47 Succinatimonas hippei,OTU,
+485,OTU_47,"WBS Day 49
+(pathology)",0.5175818215,OTU47 Succinatimonas hippei,OTU,
+486,OTU_47,YBS Day -56,-0.3602241874,OTU47 Succinatimonas hippei,OTU,
+487,OTU_47,YBS Day -7,-0.3550099358,OTU47 Succinatimonas hippei,OTU,
+488,OTU_47,YBS Day 21,-0.3602241874,OTU47 Succinatimonas hippei,OTU,
+489,OTU_47,"YBS Day 49
+(healthy)",-0.3602241874,OTU47 Succinatimonas hippei,OTU,
+490,OTU_47,"YBS Day 49
+(pathology)",-0.3602241874,OTU47 Succinatimonas hippei,OTU,
+581,OTU_56,WBS Day -56,-0.1957480822,OTU56 Anaeroplasmataceae sp.,OTU,
+582,OTU_56,WBS Day -7,-0.2455864841,OTU56 Anaeroplasmataceae sp.,OTU,
+583,OTU_56,WBS Day 21,-0.1693038925,OTU56 Anaeroplasmataceae sp.,OTU,
+584,OTU_56,"WBS Day 49
+(healthy)",-0.2239863635,OTU56 Anaeroplasmataceae sp.,OTU,
+585,OTU_56,"WBS Day 49
+(pathology)",0.1558360426,OTU56 Anaeroplasmataceae sp.,OTU,
+586,OTU_56,YBS Day -56,-0.2236449313,OTU56 Anaeroplasmataceae sp.,OTU,
+587,OTU_56,YBS Day -7,-0.2454923212,OTU56 Anaeroplasmataceae sp.,OTU,
+588,OTU_56,YBS Day 21,0.1584129435,OTU56 Anaeroplasmataceae sp.,OTU,
+589,OTU_56,"YBS Day 49
+(healthy)",-0.1133568883,OTU56 Anaeroplasmataceae sp.,OTU,
+590,OTU_56,"YBS Day 49
+(pathology)",1.8343215419,OTU56 Anaeroplasmataceae sp.,OTU,
+601,OTU_59,WBS Day -56,-0.0442175046,OTU59 Kineothrix sp.,OTU,
+602,OTU_59,WBS Day -7,-0.0908217172,OTU59 Kineothrix sp.,OTU,
+603,OTU_59,WBS Day 21,-0.1088538707,OTU59 Kineothrix sp.,OTU,
+604,OTU_59,"WBS Day 49
+(healthy)",-0.2128421916,OTU59 Kineothrix sp.,OTU,
+605,OTU_59,"WBS Day 49
+(pathology)",1.5244271272,OTU59 Kineothrix sp.,OTU,
+606,OTU_59,YBS Day -56,-0.2128421916,OTU59 Kineothrix sp.,OTU,
+607,OTU_59,YBS Day -7,-0.2128421916,OTU59 Kineothrix sp.,OTU,
+608,OTU_59,YBS Day 21,-0.2128421916,OTU59 Kineothrix sp.,OTU,
+609,OTU_59,"YBS Day 49
+(healthy)",-0.2128421916,OTU59 Kineothrix sp.,OTU,
+610,OTU_59,"YBS Day 49
+(pathology)",-0.202538069,OTU59 Kineothrix sp.,OTU,
+661,OTU_7,WBS Day -56,-0.1401099368,OTU7 Prevotella sp.,OTU,
+662,OTU_7,WBS Day -7,-0.1691670103,OTU7 Prevotella sp.,OTU,
+663,OTU_7,WBS Day 21,0.755946918,OTU7 Prevotella sp.,OTU,
+664,OTU_7,"WBS Day 49
+(healthy)",0.9511483565,OTU7 Prevotella sp.,OTU,
+665,OTU_7,"WBS Day 49
+(pathology)",-0.296297025,OTU7 Prevotella sp.,OTU,
+666,OTU_7,YBS Day -56,-0.4845879659,OTU7 Prevotella sp.,OTU,
+667,OTU_7,YBS Day -7,-0.1489132131,OTU7 Prevotella sp.,OTU,
+668,OTU_7,YBS Day 21,0.1032101014,OTU7 Prevotella sp.,OTU,
+669,OTU_7,"YBS Day 49
+(healthy)",1.0263330314,OTU7 Prevotella sp.,OTU,
+670,OTU_7,"YBS Day 49
+(pathology)",-0.890219459,OTU7 Prevotella sp.,OTU,
+671,OTU_72,WBS Day -56,0.0623614368,OTU72 Parolsenella catena,OTU,
+672,OTU_72,WBS Day -7,-0.2484064318,OTU72 Parolsenella catena,OTU,
+673,OTU_72,WBS Day 21,-0.2985308506,OTU72 Parolsenella catena,OTU,
+674,OTU_72,"WBS Day 49
+(healthy)",-0.3723172995,OTU72 Parolsenella catena,OTU,
+675,OTU_72,"WBS Day 49
+(pathology)",0.8031475547,OTU72 Parolsenella catena,OTU,
+676,OTU_72,YBS Day -56,0.1429432692,OTU72 Parolsenella catena,OTU,
+677,OTU_72,YBS Day -7,-0.4426640278,OTU72 Parolsenella catena,OTU,
+678,OTU_72,YBS Day 21,-0.38090128,OTU72 Parolsenella catena,OTU,
+679,OTU_72,"YBS Day 49
+(healthy)",-0.4571853358,OTU72 Parolsenella catena,OTU,
+680,OTU_72,"YBS Day 49
+(pathology)",1.7690184219,OTU72 Parolsenella catena,OTU,
+681,OTU_73,WBS Day -56,-0.5346997248,OTU73 Bifidobacterium tissierii,OTU,
+682,OTU_73,WBS Day -7,0.0197670899,OTU73 Bifidobacterium tissierii,OTU,
+683,OTU_73,WBS Day 21,-0.3467907075,OTU73 Bifidobacterium tissierii,OTU,
+684,OTU_73,"WBS Day 49
+(healthy)",-0.8045706583,OTU73 Bifidobacterium tissierii,OTU,
+685,OTU_73,"WBS Day 49
+(pathology)",1.4547046529,OTU73 Bifidobacterium tissierii,OTU,+
+686,OTU_73,YBS Day -56,-0.1561606045,OTU73 Bifidobacterium tissierii,OTU,
+687,OTU_73,YBS Day -7,-0.3483137155,OTU73 Bifidobacterium tissierii,OTU,
+688,OTU_73,YBS Day 21,-0.2798135116,OTU73 Bifidobacterium tissierii,OTU,
+689,OTU_73,"YBS Day 49
+(healthy)",0.2332967301,OTU73 Bifidobacterium tissierii,OTU,
+690,OTU_73,"YBS Day 49
+(pathology)",1.2789539675,OTU73 Bifidobacterium tissierii,OTU,

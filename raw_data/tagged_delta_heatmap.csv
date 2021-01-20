@@ -1,0 +1,941 @@
+,TaxID,Level,PlotName,variable,value,Symbol
+1,P1,Phylum,Actinobacteria,"WBS
+Days -56 to -7",0.7612738156,
+2,P2,Phylum,Bacteroidetes,"WBS
+Days -56 to -7",-0.8314077289,
+3,P5,Phylum,Firmicutes,"WBS
+Days -56 to -7",-1.7016106705,
+4,P6,Phylum,Fusobacteria,"WBS
+Days -56 to -7",3.9575947746,
+5,P7,Phylum,Proteobacteria,"WBS
+Days -56 to -7",-0.7063768806,
+6,P8,Phylum,Tenericutes,"WBS
+Days -56 to -7",-0.1234361944,
+7,F1,Family,Acidaminococcaceae,"WBS
+Days -56 to -7",-1.8015797682,
+8,F16,Family,Coriobacteriaceae,"WBS
+Days -56 to -7",0.3323674081,
+9,F18,Family,Enterobacteriaceae,"WBS
+Days -56 to -7",-0.0051572659,
+10,F23,Family,Lachnospiraceae,"WBS
+Days -56 to -7",-1.69420389,
+11,F32,Family,Porphyromonadaceae,"WBS
+Days -56 to -7",-0.2130728,
+12,F33,Family,Prevotellaceae,"WBS
+Days -56 to -7",-0.4581812877,
+13,F39,Family,Sutterellaceae,"WBS
+Days -56 to -7",-1.6495319919,
+14,F40,Family,Veillonellaceae,"WBS
+Days -56 to -7",0.4378586436,
+15,F5,Family,Anaeroplasmataceae,"WBS
+Days -56 to -7",-0.1233886238,
+16,F9,Family,Bifidobacteriaceae,"WBS
+Days -56 to -7",0.7922489202,
+17,G13,Genus,Bifidobacterium,"WBS
+Days -56 to -7",0.766198368,
+18,G44,Genus,Megasphaera,"WBS
+Days -56 to -7",1.0908013055,
+19,G54,Genus,Phascolarctobacterium,"WBS
+Days -56 to -7",-1.9215216222,
+20,G66,Genus,Succinatimonas,"WBS
+Days -56 to -7",2.1125149589,
+21,G67,Genus,Sutterella,"WBS
+Days -56 to -7",-1.649148898,
+22,G8,Genus,Asteroleplasma,"WBS
+Days -56 to -7",-0.1234897578,
+23,OTU_129,OTU,OTU129 Bifidobacterium hapali,"WBS
+Days -56 to -7",-1.6856972531,
+24,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"WBS
+Days -56 to -7",-2.3451278421,
+25,OTU_136,OTU,OTU136 Megamonas sp.,"WBS
+Days -56 to -7",-0.2681354233,
+26,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"WBS
+Days -56 to -7",-0.165042882,
+27,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"WBS
+Days -56 to -7",0.0124020433,
+28,OTU_15,OTU,OTU15 Megasphaera paucivorans,"WBS
+Days -56 to -7",1.0048367966,
+29,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"WBS
+Days -56 to -7",0.8904554282,
+30,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"WBS
+Days -56 to -7",-1.7975463378,
+31,OTU_24,OTU,OTU24 Megamonas sp.,"WBS
+Days -56 to -7",-1.4468357496,
+32,OTU_28,OTU,OTU28 Parabacteroides sp.,"WBS
+Days -56 to -7",0.963050941,
+33,OTU_3,OTU,OTU3 Parolsenella catena,"WBS
+Days -56 to -7",0.7450210035,
+34,OTU_32,OTU,OTU32 Parolsenella sp.,"WBS
+Days -56 to -7",-1.2410265466,
+35,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"WBS
+Days -56 to -7",-0.5952267541,
+36,OTU_37,OTU,OTU37 Muribaculaceae sp.,"WBS
+Days -56 to -7",-0.2746175903,
+37,OTU_38,OTU,OTU38 Parolsenella sp.,"WBS
+Days -56 to -7",-0.9011344497,
+38,OTU_4,OTU,OTU4 Bifidobacterium dentium,"WBS
+Days -56 to -7",0.147440915,
+39,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"WBS
+Days -56 to -7",-0.1042202484,
+40,OTU_42,OTU,OTU42 Enterobacter hormaechei,"WBS
+Days -56 to -7",0,
+41,OTU_45,OTU,OTU45 Streptococcus sp.,"WBS
+Days -56 to -7",-0.6699820759,
+42,OTU_47,OTU,OTU47 Succinatimonas hippei,"WBS
+Days -56 to -7",2.1619565994,
+43,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"WBS
+Days -56 to -7",-0.1179387305,
+44,OTU_59,OTU,OTU59 Kineothrix sp.,"WBS
+Days -56 to -7",-0.2227789783,
+45,OTU_7,OTU,OTU7 Prevotella sp.,"WBS
+Days -56 to -7",-0.0581255299,
+46,OTU_72,OTU,OTU72 Parolsenella catena,"WBS
+Days -56 to -7",-0.5508219737,
+47,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"WBS
+Days -56 to -7",0.8718853233,
+48,P1,Phylum,Actinobacteria,"WBS
+Days -7 to 21",-1.3477172699,
+49,P2,Phylum,Bacteroidetes,"WBS
+Days -7 to 21",2.2708453119,
+50,P5,Phylum,Firmicutes,"WBS
+Days -7 to 21",0.8694291157,+
+51,P6,Phylum,Fusobacteria,"WBS
+Days -7 to 21",-3.9540453934,
+52,P7,Phylum,Proteobacteria,"WBS
+Days -7 to 21",1.1855945379,+
+53,P8,Phylum,Tenericutes,"WBS
+Days -7 to 21",0.17268141,
+54,F1,Family,Acidaminococcaceae,"WBS
+Days -7 to 21",1.0839344746,+
+55,F16,Family,Coriobacteriaceae,"WBS
+Days -7 to 21",-0.4955177287,
+56,F18,Family,Enterobacteriaceae,"WBS
+Days -7 to 21",0.0094363389,
+57,F23,Family,Lachnospiraceae,"WBS
+Days -7 to 21",-0.2009731888,+
+58,F32,Family,Porphyromonadaceae,"WBS
+Days -7 to 21",0.8187252028,
+59,F33,Family,Prevotellaceae,"WBS
+Days -7 to 21",1.9415529789,
+60,F39,Family,Sutterellaceae,"WBS
+Days -7 to 21",0.4528133534,+
+61,F40,Family,Veillonellaceae,"WBS
+Days -7 to 21",1.3121615685,
+62,F5,Family,Anaeroplasmataceae,"WBS
+Days -7 to 21",0.1738743655,
+63,F9,Family,Bifidobacteriaceae,"WBS
+Days -7 to 21",-1.4205224249,
+64,G13,Genus,Bifidobacterium,"WBS
+Days -7 to 21",-1.4252350181,
+65,G44,Genus,Megasphaera,"WBS
+Days -7 to 21",0.2787268077,
+66,G54,Genus,Phascolarctobacterium,"WBS
+Days -7 to 21",1.1144221181,+
+67,G66,Genus,Succinatimonas,"WBS
+Days -7 to 21",1.0483783926,
+68,G67,Genus,Sutterella,"WBS
+Days -7 to 21",0.4524321949,+
+69,G8,Genus,Asteroleplasma,"WBS
+Days -7 to 21",0.1742543207,
+70,OTU_129,OTU,OTU129 Bifidobacterium hapali,"WBS
+Days -7 to 21",-0.0571854083,
+71,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"WBS
+Days -7 to 21",-0.2119738257,+
+72,OTU_136,OTU,OTU136 Megamonas sp.,"WBS
+Days -7 to 21",1.0694980471,
+73,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"WBS
+Days -7 to 21",-0.0841086473,
+74,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"WBS
+Days -7 to 21",1.1993551216,
+75,OTU_15,OTU,OTU15 Megasphaera paucivorans,"WBS
+Days -7 to 21",-0.0661811906,
+76,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"WBS
+Days -7 to 21",-1.4002145166,
+77,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"WBS
+Days -7 to 21",1.0862936153,+
+78,OTU_24,OTU,OTU24 Megamonas sp.,"WBS
+Days -7 to 21",1.8318519506,+
+79,OTU_28,OTU,OTU28 Parabacteroides sp.,"WBS
+Days -7 to 21",1.0973098295,
+80,OTU_3,OTU,OTU3 Parolsenella catena,"WBS
+Days -7 to 21",-0.4066366306,
+81,OTU_32,OTU,OTU32 Parolsenella sp.,"WBS
+Days -7 to 21",0.0456578908,
+82,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"WBS
+Days -7 to 21",-0.4733071087,
+83,OTU_37,OTU,OTU37 Muribaculaceae sp.,"WBS
+Days -7 to 21",0.051197747,
+84,OTU_38,OTU,OTU38 Parolsenella sp.,"WBS
+Days -7 to 21",-0.2300058638,
+85,OTU_4,OTU,OTU4 Bifidobacterium dentium,"WBS
+Days -7 to 21",1.0900386345,
+86,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"WBS
+Days -7 to 21",-0.7369883904,
+87,OTU_42,OTU,OTU42 Enterobacter hormaechei,"WBS
+Days -7 to 21",0.0096097465,
+88,OTU_45,OTU,OTU45 Streptococcus sp.,"WBS
+Days -7 to 21",0.0746467348,
+89,OTU_47,OTU,OTU47 Succinatimonas hippei,"WBS
+Days -7 to 21",1.0202381691,
+90,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"WBS
+Days -7 to 21",0.1805168641,
+91,OTU_59,OTU,OTU59 Kineothrix sp.,"WBS
+Days -7 to 21",-0.0861978892,
+92,OTU_7,OTU,OTU7 Prevotella sp.,"WBS
+Days -7 to 21",1.8505902611,
+93,OTU_72,OTU,OTU72 Parolsenella catena,"WBS
+Days -7 to 21",-0.0888432625,
+94,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"WBS
+Days -7 to 21",-0.576403051,
+95,P1,Phylum,Actinobacteria,"WBS
+Days 21 to 49
+(healthy)",0.706017164,
+96,P2,Phylum,Bacteroidetes,"WBS
+Days 21 to 49
+(healthy)",-1.7100842224,
+97,P5,Phylum,Firmicutes,"WBS
+Days 21 to 49
+(healthy)",1.0701883341,
+98,P6,Phylum,Fusobacteria,"WBS
+Days 21 to 49
+(healthy)",-0.0024935789,
+99,P7,Phylum,Proteobacteria,"WBS
+Days 21 to 49
+(healthy)",-1.1131426065,
+100,P8,Phylum,Tenericutes,"WBS
+Days 21 to 49
+(healthy)",0.0837687083,
+101,F1,Family,Acidaminococcaceae,"WBS
+Days 21 to 49
+(healthy)",1.5333311926,
+102,F16,Family,Coriobacteriaceae,"WBS
+Days 21 to 49
+(healthy)",0.7591368097,
+103,F18,Family,Enterobacteriaceae,"WBS
+Days 21 to 49
+(healthy)",0,
+104,F23,Family,Lachnospiraceae,"WBS
+Days 21 to 49
+(healthy)",1.7601904692,+
+105,F32,Family,Porphyromonadaceae,"WBS
+Days 21 to 49
+(healthy)",1.2527325474,
+106,F33,Family,Prevotellaceae,"WBS
+Days 21 to 49
+(healthy)",0.4143095807,
+107,F39,Family,Sutterellaceae,"WBS
+Days 21 to 49
+(healthy)",-0.4127761188,
+108,F40,Family,Veillonellaceae,"WBS
+Days 21 to 49
+(healthy)",-1.350657084,
+109,F5,Family,Anaeroplasmataceae,"WBS
+Days 21 to 49
+(healthy)",0.0837755055,
+110,F9,Family,Bifidobacteriaceae,"WBS
+Days 21 to 49
+(healthy)",0.5653564983,
+111,G13,Genus,Bifidobacterium,"WBS
+Days 21 to 49
+(healthy)",0.5931978882,
+112,G44,Genus,Megasphaera,"WBS
+Days 21 to 49
+(healthy)",-1.2558038019,
+113,G54,Genus,Phascolarctobacterium,"WBS
+Days 21 to 49
+(healthy)",1.41538948,
+114,G66,Genus,Succinatimonas,"WBS
+Days 21 to 49
+(healthy)",-4.5728245696,
+115,G67,Genus,Sutterella,"WBS
+Days 21 to 49
+(healthy)",-0.4135301573,
+116,G8,Genus,Asteroleplasma,"WBS
+Days 21 to 49
+(healthy)",0.0838353284,
+117,OTU_129,OTU,OTU129 Bifidobacterium hapali,"WBS
+Days 21 to 49
+(healthy)",0.0283478131,
+118,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"WBS
+Days 21 to 49
+(healthy)",0.9978159849,+
+119,OTU_136,OTU,OTU136 Megamonas sp.,"WBS
+Days 21 to 49
+(healthy)",-2.578540977,
+120,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"WBS
+Days 21 to 49
+(healthy)",1.3190341253,
+121,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"WBS
+Days 21 to 49
+(healthy)",-0.1536229478,
+122,OTU_15,OTU,OTU15 Megasphaera paucivorans,"WBS
+Days 21 to 49
+(healthy)",-1.2461495905,
+123,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"WBS
+Days 21 to 49
+(healthy)",0.2231527222,
+124,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"WBS
+Days 21 to 49
+(healthy)",1.510127603,
+125,OTU_24,OTU,OTU24 Megamonas sp.,"WBS
+Days 21 to 49
+(healthy)",-0.6548860948,
+126,OTU_28,OTU,OTU28 Parabacteroides sp.,"WBS
+Days 21 to 49
+(healthy)",1.7045890122,
+127,OTU_3,OTU,OTU3 Parolsenella catena,"WBS
+Days 21 to 49
+(healthy)",0.152892392,
+128,OTU_32,OTU,OTU32 Parolsenella sp.,"WBS
+Days 21 to 49
+(healthy)",1.4280490201,
+129,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"WBS
+Days 21 to 49
+(healthy)",0.5880553171,
+130,OTU_37,OTU,OTU37 Muribaculaceae sp.,"WBS
+Days 21 to 49
+(healthy)",0.2848761195,
+131,OTU_38,OTU,OTU38 Parolsenella sp.,"WBS
+Days 21 to 49
+(healthy)",-0.1179154751,
+132,OTU_4,OTU,OTU4 Bifidobacterium dentium,"WBS
+Days 21 to 49
+(healthy)",0.1092650523,
+133,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"WBS
+Days 21 to 49
+(healthy)",0.3679986109,
+134,OTU_42,OTU,OTU42 Enterobacter hormaechei,"WBS
+Days 21 to 49
+(healthy)",0,
+135,OTU_45,OTU,OTU45 Streptococcus sp.,"WBS
+Days 21 to 49
+(healthy)",1.9386154072,
+136,OTU_47,OTU,OTU47 Succinatimonas hippei,"WBS
+Days 21 to 49
+(healthy)",-4.6213852149,
+137,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"WBS
+Days 21 to 49
+(healthy)",0.0803376808,
+138,OTU_59,OTU,OTU59 Kineothrix sp.,"WBS
+Days 21 to 49
+(healthy)",0,
+139,OTU_7,OTU,OTU7 Prevotella sp.,"WBS
+Days 21 to 49
+(healthy)",0.6546248185,
+140,OTU_72,OTU,OTU72 Parolsenella catena,"WBS
+Days 21 to 49
+(healthy)",-0.4712960218,
+141,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"WBS
+Days 21 to 49
+(healthy)",-0.2182550938,
+142,P1,Phylum,Actinobacteria,"WBS
+Days 21 to 49
+(pathology)",-0.8969990905,
+143,P2,Phylum,Bacteroidetes,"WBS
+Days 21 to 49
+(pathology)",0.8420696984,
+144,P5,Phylum,Firmicutes,"WBS
+Days 21 to 49
+(pathology)",-9.61891450899371E-05,
+145,P6,Phylum,Fusobacteria,"WBS
+Days 21 to 49
+(pathology)",0.0707063411,
+146,P7,Phylum,Proteobacteria,"WBS
+Days 21 to 49
+(pathology)",1.3820453226,
+147,P8,Phylum,Tenericutes,"WBS
+Days 21 to 49
+(pathology)",0.7491088206,
+148,F1,Family,Acidaminococcaceae,"WBS
+Days 21 to 49
+(pathology)",-0.2439652637,
+149,F16,Family,Coriobacteriaceae,"WBS
+Days 21 to 49
+(pathology)",1.1252111374,
+150,F18,Family,Enterobacteriaceae,"WBS
+Days 21 to 49
+(pathology)",7.8131349098,
+151,F23,Family,Lachnospiraceae,"WBS
+Days 21 to 49
+(pathology)",1.3124906818,
+152,F32,Family,Porphyromonadaceae,"WBS
+Days 21 to 49
+(pathology)",3.0164945603,
+153,F33,Family,Prevotellaceae,"WBS
+Days 21 to 49
+(pathology)",-2.0239433368,+
+154,F39,Family,Sutterellaceae,"WBS
+Days 21 to 49
+(pathology)",-0.2075953772,
+155,F40,Family,Veillonellaceae,"WBS
+Days 21 to 49
+(pathology)",-1.9810031203,
+156,F5,Family,Anaeroplasmataceae,"WBS
+Days 21 to 49
+(pathology)",0.7495468123,
+157,F9,Family,Bifidobacteriaceae,"WBS
+Days 21 to 49
+(pathology)",-1.5113445951,
+158,G13,Genus,Bifidobacterium,"WBS
+Days 21 to 49
+(pathology)",-1.5202125131,
+159,G44,Genus,Megasphaera,"WBS
+Days 21 to 49
+(pathology)",-1.0655251239,
+160,G54,Genus,Phascolarctobacterium,"WBS
+Days 21 to 49
+(pathology)",-0.2416008291,
+161,G66,Genus,Succinatimonas,"WBS
+Days 21 to 49
+(pathology)",-0.1874041799,
+162,G67,Genus,Sutterella,"WBS
+Days 21 to 49
+(pathology)",-0.2080965461,
+163,G8,Genus,Asteroleplasma,"WBS
+Days 21 to 49
+(pathology)",0.7502116068,
+164,OTU_129,OTU,OTU129 Bifidobacterium hapali,"WBS
+Days 21 to 49
+(pathology)",1.1301143559,
+165,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"WBS
+Days 21 to 49
+(pathology)",2.3873607622,
+166,OTU_136,OTU,OTU136 Megamonas sp.,"WBS
+Days 21 to 49
+(pathology)",-0.1387002311,
+167,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"WBS
+Days 21 to 49
+(pathology)",2.0759710465,
+168,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"WBS
+Days 21 to 49
+(pathology)",-1.8058256326,
+169,OTU_15,OTU,OTU15 Megasphaera paucivorans,"WBS
+Days 21 to 49
+(pathology)",-1.0132068174,
+170,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"WBS
+Days 21 to 49
+(pathology)",0.0852904935,
+171,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"WBS
+Days 21 to 49
+(pathology)",-0.2402684362,
+172,OTU_24,OTU,OTU24 Megamonas sp.,"WBS
+Days 21 to 49
+(pathology)",-2.4258453558,+
+173,OTU_28,OTU,OTU28 Parabacteroides sp.,"WBS
+Days 21 to 49
+(pathology)",-1.676506292,
+174,OTU_3,OTU,OTU3 Parolsenella catena,"WBS
+Days 21 to 49
+(pathology)",-0.0025798646,
+175,OTU_32,OTU,OTU32 Parolsenella sp.,"WBS
+Days 21 to 49
+(pathology)",-0.635523279,
+176,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"WBS
+Days 21 to 49
+(pathology)",1.5442819347,
+177,OTU_37,OTU,OTU37 Muribaculaceae sp.,"WBS
+Days 21 to 49
+(pathology)",3.2098460004,
+178,OTU_38,OTU,OTU38 Parolsenella sp.,"WBS
+Days 21 to 49
+(pathology)",1.0979312287,
+179,OTU_4,OTU,OTU4 Bifidobacterium dentium,"WBS
+Days 21 to 49
+(pathology)",-0.972689821,
+180,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"WBS
+Days 21 to 49
+(pathology)",0.787256981,
+181,OTU_42,OTU,OTU42 Enterobacter hormaechei,"WBS
+Days 21 to 49
+(pathology)",7.8456643895,
+182,OTU_45,OTU,OTU45 Streptococcus sp.,"WBS
+Days 21 to 49
+(pathology)",-2.6151353853,
+183,OTU_47,OTU,OTU47 Succinatimonas hippei,"WBS
+Days 21 to 49
+(pathology)",-0.168162356,
+184,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"WBS
+Days 21 to 49
+(pathology)",0.6995053801,
+185,OTU_59,OTU,OTU59 Kineothrix sp.,"WBS
+Days 21 to 49
+(pathology)",7.6417670294,
+186,OTU_7,OTU,OTU7 Prevotella sp.,"WBS
+Days 21 to 49
+(pathology)",-2.1929485835,+
+187,OTU_72,OTU,OTU72 Parolsenella catena,"WBS
+Days 21 to 49
+(pathology)",2.0661793774,
+188,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"WBS
+Days 21 to 49
+(pathology)",2.6656092919,
+189,P1,Phylum,Actinobacteria,"YBS
+Days -56 to -7",1.4628177357,
+190,P2,Phylum,Bacteroidetes,"YBS
+Days -56 to -7",-0.4835077383,
+191,P5,Phylum,Firmicutes,"YBS
+Days -56 to -7",-1.6352015937,
+192,P6,Phylum,Fusobacteria,"YBS
+Days -56 to -7",0.0016148782,
+193,P7,Phylum,Proteobacteria,"YBS
+Days -56 to -7",-1.0350311617,
+194,P8,Phylum,Tenericutes,"YBS
+Days -56 to -7",-0.0541975876,
+195,F1,Family,Acidaminococcaceae,"YBS
+Days -56 to -7",-0.7180223947,
+196,F16,Family,Coriobacteriaceae,"YBS
+Days -56 to -7",2.0478030719,
+197,F18,Family,Enterobacteriaceae,"YBS
+Days -56 to -7",-0.0406624112,
+198,F23,Family,Lachnospiraceae,"YBS
+Days -56 to -7",-1.2847707971,
+199,F32,Family,Porphyromonadaceae,"YBS
+Days -56 to -7",0.5308190482,
+200,F33,Family,Prevotellaceae,"YBS
+Days -56 to -7",0.4845393951,
+201,F39,Family,Sutterellaceae,"YBS
+Days -56 to -7",-2.2456955681,
+202,F40,Family,Veillonellaceae,"YBS
+Days -56 to -7",-0.2011842529,
+203,F5,Family,Anaeroplasmataceae,"YBS
+Days -56 to -7",-0.054143866,
+204,F9,Family,Bifidobacteriaceae,"YBS
+Days -56 to -7",1.0119676119,
+205,G13,Genus,Bifidobacterium,"YBS
+Days -56 to -7",0.9859783567,
+206,G44,Genus,Megasphaera,"YBS
+Days -56 to -7",-0.1888589748,
+207,G54,Genus,Phascolarctobacterium,"YBS
+Days -56 to -7",-0.438997625,
+208,G66,Genus,Succinatimonas,"YBS
+Days -56 to -7",0.0009268521,
+209,G67,Genus,Sutterella,"YBS
+Days -56 to -7",-2.2490966991,
+210,G8,Genus,Asteroleplasma,"YBS
+Days -56 to -7",-0.0542236818,
+211,OTU_129,OTU,OTU129 Bifidobacterium hapali,"YBS
+Days -56 to -7",0.8004772651,
+212,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"YBS
+Days -56 to -7",-1.5654062495,
+213,OTU_136,OTU,OTU136 Megamonas sp.,"YBS
+Days -56 to -7",1.8590825151,
+214,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"YBS
+Days -56 to -7",-0.4700000052,
+215,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"YBS
+Days -56 to -7",0.2836671611,
+216,OTU_15,OTU,OTU15 Megasphaera paucivorans,"YBS
+Days -56 to -7",-0.3331383544,
+217,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"YBS
+Days -56 to -7",1.2391361289,
+218,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"YBS
+Days -56 to -7",-0.7166685692,
+219,OTU_24,OTU,OTU24 Megamonas sp.,"YBS
+Days -56 to -7",-0.0921478533,
+220,OTU_28,OTU,OTU28 Parabacteroides sp.,"YBS
+Days -56 to -7",0.5880043265,
+221,OTU_3,OTU,OTU3 Parolsenella catena,"YBS
+Days -56 to -7",2.3843356016,
+222,OTU_32,OTU,OTU32 Parolsenella sp.,"YBS
+Days -56 to -7",0.8970131729,
+223,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"YBS
+Days -56 to -7",-0.1000293852,
+224,OTU_37,OTU,OTU37 Muribaculaceae sp.,"YBS
+Days -56 to -7",-0.1994830902,
+225,OTU_38,OTU,OTU38 Parolsenella sp.,"YBS
+Days -56 to -7",-3.2192559852,
+226,OTU_4,OTU,OTU4 Bifidobacterium dentium,"YBS
+Days -56 to -7",0.4756060386,
+227,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"YBS
+Days -56 to -7",-0.2524724526,
+228,OTU_42,OTU,OTU42 Enterobacter hormaechei,"YBS
+Days -56 to -7",-0.0103287313,
+229,OTU_45,OTU,OTU45 Streptococcus sp.,"YBS
+Days -56 to -7",0.5308768934,
+230,OTU_47,OTU,OTU47 Succinatimonas hippei,"YBS
+Days -56 to -7",0.0141288303,
+231,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"YBS
+Days -56 to -7",-0.0517001616,
+232,OTU_59,OTU,OTU59 Kineothrix sp.,"YBS
+Days -56 to -7",0,
+233,OTU_7,OTU,OTU7 Prevotella sp.,"YBS
+Days -56 to -7",0.6714810029,
+234,OTU_72,OTU,OTU72 Parolsenella catena,"YBS
+Days -56 to -7",-1.0379624144,
+235,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"YBS
+Days -56 to -7",-0.3021560044,
+236,P1,Phylum,Actinobacteria,"YBS
+Days -7 to 21",-0.5960892442,
+237,P2,Phylum,Bacteroidetes,"YBS
+Days -7 to 21",0.4797947159,
+238,P5,Phylum,Firmicutes,"YBS
+Days -7 to 21",0.2478799216,
+239,P6,Phylum,Fusobacteria,"YBS
+Days -7 to 21",-0.0027853385,
+240,P7,Phylum,Proteobacteria,"YBS
+Days -7 to 21",0.4979865013,
+241,P8,Phylum,Tenericutes,"YBS
+Days -7 to 21",1.0020152707,
+242,F1,Family,Acidaminococcaceae,"YBS
+Days -7 to 21",-0.506277593,
+243,F16,Family,Coriobacteriaceae,"YBS
+Days -7 to 21",-1.2604213571,+
+244,F18,Family,Enterobacteriaceae,"YBS
+Days -7 to 21",0.0088660883,
+245,F23,Family,Lachnospiraceae,"YBS
+Days -7 to 21",-0.2296731164,
+246,F32,Family,Porphyromonadaceae,"YBS
+Days -7 to 21",-0.1067740423,
+247,F33,Family,Prevotellaceae,"YBS
+Days -7 to 21",0.6689591928,
+248,F39,Family,Sutterellaceae,"YBS
+Days -7 to 21",0.0285027053,
+249,F40,Family,Veillonellaceae,"YBS
+Days -7 to 21",0.7571400007,
+250,F5,Family,Anaeroplasmataceae,"YBS
+Days -7 to 21",1.0016844327,
+251,F9,Family,Bifidobacteriaceae,"YBS
+Days -7 to 21",-0.2452958663,
+252,G13,Genus,Bifidobacterium,"YBS
+Days -7 to 21",-0.2613551116,
+253,G44,Genus,Megasphaera,"YBS
+Days -7 to 21",1.3487011114,
+254,G54,Genus,Phascolarctobacterium,"YBS
+Days -7 to 21",-0.7020761608,
+255,G66,Genus,Succinatimonas,"YBS
+Days -7 to 21",-0.0140675092,
+256,G67,Genus,Sutterella,"YBS
+Days -7 to 21",0.0283483275,
+257,G8,Genus,Asteroleplasma,"YBS
+Days -7 to 21",1.0014033744,
+258,OTU_129,OTU,OTU129 Bifidobacterium hapali,"YBS
+Days -7 to 21",-1.877150932,
+259,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"YBS
+Days -7 to 21",-0.1998226584,
+260,OTU_136,OTU,OTU136 Megamonas sp.,"YBS
+Days -7 to 21",-1.0441099768,
+261,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"YBS
+Days -7 to 21",-0.1295255539,
+262,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"YBS
+Days -7 to 21",1.6851079842,
+263,OTU_15,OTU,OTU15 Megasphaera paucivorans,"YBS
+Days -7 to 21",1.0737719562,
+264,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"YBS
+Days -7 to 21",-1.4097273686,+
+265,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"YBS
+Days -7 to 21",-0.5076850169,
+266,OTU_24,OTU,OTU24 Megamonas sp.,"YBS
+Days -7 to 21",-0.7014626225,
+267,OTU_28,OTU,OTU28 Parabacteroides sp.,"YBS
+Days -7 to 21",0.2346714492,
+268,OTU_3,OTU,OTU3 Parolsenella catena,"YBS
+Days -7 to 21",-1.1129441474,+
+269,OTU_32,OTU,OTU32 Parolsenella sp.,"YBS
+Days -7 to 21",-0.0344318401,
+270,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"YBS
+Days -7 to 21",-0.6691943131,
+271,OTU_37,OTU,OTU37 Muribaculaceae sp.,"YBS
+Days -7 to 21",0.2137692185,+
+272,OTU_38,OTU,OTU38 Parolsenella sp.,"YBS
+Days -7 to 21",-0.1483273793,+
+273,OTU_4,OTU,OTU4 Bifidobacterium dentium,"YBS
+Days -7 to 21",1.8327864675,
+274,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"YBS
+Days -7 to 21",0.1349755184,
+275,OTU_42,OTU,OTU42 Enterobacter hormaechei,"YBS
+Days -7 to 21",0.0090113991,
+276,OTU_45,OTU,OTU45 Streptococcus sp.,"YBS
+Days -7 to 21",-0.6219655451,
+277,OTU_47,OTU,OTU47 Succinatimonas hippei,"YBS
+Days -7 to 21",-0.0141288303,
+278,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"YBS
+Days -7 to 21",0.9558106279,
+279,OTU_59,OTU,OTU59 Kineothrix sp.,"YBS
+Days -7 to 21",0,
+280,OTU_7,OTU,OTU7 Prevotella sp.,"YBS
+Days -7 to 21",0.5043453958,
+281,OTU_72,OTU,OTU72 Parolsenella catena,"YBS
+Days -7 to 21",0.1094716735,
+282,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"YBS
+Days -7 to 21",0.1077148728,
+283,P1,Phylum,Actinobacteria,"YBS
+Days 21 to 49
+(healthy)",-1.9281334862,
+284,P2,Phylum,Bacteroidetes,"YBS
+Days 21 to 49
+(healthy)",1.0984680298,
+285,P5,Phylum,Firmicutes,"YBS
+Days 21 to 49
+(healthy)",2.0973073291,
+286,P6,Phylum,Fusobacteria,"YBS
+Days 21 to 49
+(healthy)",-0.0021092866,
+287,P7,Phylum,Proteobacteria,"YBS
+Days 21 to 49
+(healthy)",-1.0208392143,
+288,P8,Phylum,Tenericutes,"YBS
+Days 21 to 49
+(healthy)",-1.3579734235,
+289,F1,Family,Acidaminococcaceae,"YBS
+Days 21 to 49
+(healthy)",1.2762650286,
+290,F16,Family,Coriobacteriaceae,"YBS
+Days 21 to 49
+(healthy)",-1.3694471597,
+291,F18,Family,Enterobacteriaceae,"YBS
+Days 21 to 49
+(healthy)",-0.0177321766,
+292,F23,Family,Lachnospiraceae,"YBS
+Days 21 to 49
+(healthy)",1.3047407899,+
+293,F32,Family,Porphyromonadaceae,"YBS
+Days 21 to 49
+(healthy)",0.3411031322,
+294,F33,Family,Prevotellaceae,"YBS
+Days 21 to 49
+(healthy)",0.8350240268,
+295,F39,Family,Sutterellaceae,"YBS
+Days 21 to 49
+(healthy)",-0.2921694526,
+296,F40,Family,Veillonellaceae,"YBS
+Days 21 to 49
+(healthy)",0.8458362655,
+297,F5,Family,Anaeroplasmataceae,"YBS
+Days 21 to 49
+(healthy)",-1.3581666669,
+298,F9,Family,Bifidobacteriaceae,"YBS
+Days 21 to 49
+(healthy)",-1.8475241928,
+299,G13,Genus,Bifidobacterium,"YBS
+Days 21 to 49
+(healthy)",-1.837914781,
+300,G44,Genus,Megasphaera,"YBS
+Days 21 to 49
+(healthy)",1.3455995367,
+301,G54,Genus,Phascolarctobacterium,"YBS
+Days 21 to 49
+(healthy)",1.5682368806,
+302,G66,Genus,Succinatimonas,"YBS
+Days 21 to 49
+(healthy)",0.0638835376,
+303,G67,Genus,Sutterella,"YBS
+Days 21 to 49
+(healthy)",-0.291779644,
+304,G8,Genus,Asteroleplasma,"YBS
+Days 21 to 49
+(healthy)",-1.3574837555,
+305,OTU_129,OTU,OTU129 Bifidobacterium hapali,"YBS
+Days 21 to 49
+(healthy)",1.0229917568,
+306,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"YBS
+Days 21 to 49
+(healthy)",0.209229869,
+307,OTU_136,OTU,OTU136 Megamonas sp.,"YBS
+Days 21 to 49
+(healthy)",-0.2841567351,
+308,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"YBS
+Days 21 to 49
+(healthy)",1.2155051032,
+309,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"YBS
+Days 21 to 49
+(healthy)",-2.3125315675,
+310,OTU_15,OTU,OTU15 Megasphaera paucivorans,"YBS
+Days 21 to 49
+(healthy)",1.5241609652,
+311,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"YBS
+Days 21 to 49
+(healthy)",0.0717630847,
+312,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"YBS
+Days 21 to 49
+(healthy)",1.2712059312,
+313,OTU_24,OTU,OTU24 Megamonas sp.,"YBS
+Days 21 to 49
+(healthy)",-0.4760488939,
+314,OTU_28,OTU,OTU28 Parabacteroides sp.,"YBS
+Days 21 to 49
+(healthy)",1.2757080847,
+315,OTU_3,OTU,OTU3 Parolsenella catena,"YBS
+Days 21 to 49
+(healthy)",-1.4164078206,
+316,OTU_32,OTU,OTU32 Parolsenella sp.,"YBS
+Days 21 to 49
+(healthy)",-1.5931192135,
+317,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"YBS
+Days 21 to 49
+(healthy)",0.0890712782,+
+318,OTU_37,OTU,OTU37 Muribaculaceae sp.,"YBS
+Days 21 to 49
+(healthy)",0.0265088786,
+319,OTU_38,OTU,OTU38 Parolsenella sp.,"YBS
+Days 21 to 49
+(healthy)",0.8528326153,
+320,OTU_4,OTU,OTU4 Bifidobacterium dentium,"YBS
+Days 21 to 49
+(healthy)",-1.8991032873,+
+321,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"YBS
+Days 21 to 49
+(healthy)",-0.0426487039,
+322,OTU_42,OTU,OTU42 Enterobacter hormaechei,"YBS
+Days 21 to 49
+(healthy)",-0.0180227983,
+323,OTU_45,OTU,OTU45 Streptococcus sp.,"YBS
+Days 21 to 49
+(healthy)",-1.5266291259,
+324,OTU_47,OTU,OTU47 Succinatimonas hippei,"YBS
+Days 21 to 49
+(healthy)",0,
+325,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"YBS
+Days 21 to 49
+(healthy)",-1.2957022811,
+326,OTU_59,OTU,OTU59 Kineothrix sp.,"YBS
+Days 21 to 49
+(healthy)",0,
+327,OTU_7,OTU,OTU7 Prevotella sp.,"YBS
+Days 21 to 49
+(healthy)",0.9636218026,
+328,OTU_72,OTU,OTU72 Parolsenella catena,"YBS
+Days 21 to 49
+(healthy)",0.2011330262,
+329,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"YBS
+Days 21 to 49
+(healthy)",0.7933878861,
+330,P1,Phylum,Actinobacteria,"YBS
+Days 21 to 49
+(pathology)",0.300952194,
+331,P2,Phylum,Bacteroidetes,"YBS
+Days 21 to 49
+(pathology)",-0.2838225545,
+332,P5,Phylum,Firmicutes,"YBS
+Days 21 to 49
+(pathology)",-0.378286846,
+333,P6,Phylum,Fusobacteria,"YBS
+Days 21 to 49
+(pathology)",0.0086504087,
+334,P7,Phylum,Proteobacteria,"YBS
+Days 21 to 49
+(pathology)",1.0589837751,
+335,P8,Phylum,Tenericutes,"YBS
+Days 21 to 49
+(pathology)",4.4568185849,
+336,F1,Family,Acidaminococcaceae,"YBS
+Days 21 to 49
+(pathology)",0.8366242847,
+337,F16,Family,Coriobacteriaceae,"YBS
+Days 21 to 49
+(pathology)",-0.6100953274,
+338,F18,Family,Enterobacteriaceae,"YBS
+Days 21 to 49
+(pathology)",0.1050108093,
+339,F23,Family,Lachnospiraceae,"YBS
+Days 21 to 49
+(pathology)",0.2129570668,
+340,F32,Family,Porphyromonadaceae,"YBS
+Days 21 to 49
+(pathology)",1.7202786666,
+341,F33,Family,Prevotellaceae,"YBS
+Days 21 to 49
+(pathology)",-1.1734902012,
+342,F39,Family,Sutterellaceae,"YBS
+Days 21 to 49
+(pathology)",2.7109154326,
+343,F40,Family,Veillonellaceae,"YBS
+Days 21 to 49
+(pathology)",-1.1141590646,
+344,F5,Family,Anaeroplasmataceae,"YBS
+Days 21 to 49
+(pathology)",4.4554197274,
+345,F9,Family,Bifidobacteriaceae,"YBS
+Days 21 to 49
+(pathology)",0.6057398906,
+346,G13,Genus,Bifidobacterium,"YBS
+Days 21 to 49
+(pathology)",0.6099079634,
+347,G44,Genus,Megasphaera,"YBS
+Days 21 to 49
+(pathology)",-1.425983338,+
+348,G54,Genus,Phascolarctobacterium,"YBS
+Days 21 to 49
+(pathology)",0.5977552841,
+349,G66,Genus,Succinatimonas,"YBS
+Days 21 to 49
+(pathology)",0,
+350,G67,Genus,Sutterella,"YBS
+Days 21 to 49
+(pathology)",2.7075675332,
+351,G8,Genus,Asteroleplasma,"YBS
+Days 21 to 49
+(pathology)",4.4550981745,
+352,OTU_129,OTU,OTU129 Bifidobacterium hapali,"YBS
+Days 21 to 49
+(pathology)",1.3980352156,
+353,OTU_13,OTU,OTU13 Lachnospiraceae sp.,"YBS
+Days 21 to 49
+(pathology)",0.0832628082,
+354,OTU_136,OTU,OTU136 Megamonas sp.,"YBS
+Days 21 to 49
+(pathology)",-0.7577760945,
+355,OTU_14,OTU,OTU14 Lachnospiraceae sp.,"YBS
+Days 21 to 49
+(pathology)",2.5408126367,+
+356,OTU_145,OTU,OTU145 Bifidobacterium avesanii,"YBS
+Days 21 to 49
+(pathology)",-0.5474875419,
+357,OTU_15,OTU,OTU15 Megasphaera paucivorans,"YBS
+Days 21 to 49
+(pathology)",-1.7385543291,+
+358,OTU_2,OTU,OTU2 Bifidobacterium aesculapii,"YBS
+Days 21 to 49
+(pathology)",2.6802602573,+
+359,OTU_20,OTU,OTU20 Phascolarctobacterium succinatutens,"YBS
+Days 21 to 49
+(pathology)",0.8702044904,
+360,OTU_24,OTU,OTU24 Megamonas sp.,"YBS
+Days 21 to 49
+(pathology)",-0.3709214795,
+361,OTU_28,OTU,OTU28 Parabacteroides sp.,"YBS
+Days 21 to 49
+(pathology)",-0.4601600647,
+362,OTU_3,OTU,OTU3 Parolsenella catena,"YBS
+Days 21 to 49
+(pathology)",-1.7791825397,
+363,OTU_32,OTU,OTU32 Parolsenella sp.,"YBS
+Days 21 to 49
+(pathology)",-2.1251790369,
+364,OTU_35,OTU,OTU35 Bifidobacterium moukalabense,"YBS
+Days 21 to 49
+(pathology)",3.9408339088,
+365,OTU_37,OTU,OTU37 Muribaculaceae sp.,"YBS
+Days 21 to 49
+(pathology)",3.7397013553,
+366,OTU_38,OTU,OTU38 Parolsenella sp.,"YBS
+Days 21 to 49
+(pathology)",1.4325970028,
+367,OTU_4,OTU,OTU4 Bifidobacterium dentium,"YBS
+Days 21 to 49
+(pathology)",-1.4730697838,
+368,OTU_40,OTU,OTU40 Bifidobacterium goeldii,"YBS
+Days 21 to 49
+(pathology)",5.5734390943,
+369,OTU_42,OTU,OTU42 Enterobacter hormaechei,"YBS
+Days 21 to 49
+(pathology)",0.1073629352,
+370,OTU_45,OTU,OTU45 Streptococcus sp.,"YBS
+Days 21 to 49
+(pathology)",0.0221488323,
+371,OTU_47,OTU,OTU47 Succinatimonas hippei,"YBS
+Days 21 to 49
+(pathology)",0,
+372,OTU_56,OTU,OTU56 Anaeroplasmataceae sp.,"YBS
+Days 21 to 49
+(pathology)",4.6184882739,
+373,OTU_59,OTU,OTU59 Kineothrix sp.,"YBS
+Days 21 to 49
+(pathology)",0.049256103,
+374,OTU_7,OTU,OTU7 Prevotella sp.,"YBS
+Days 21 to 49
+(pathology)",-1.1042626056,
+375,OTU_72,OTU,OTU72 Parolsenella catena,"YBS
+Days 21 to 49
+(pathology)",3.4742922504,
+376,OTU_73,OTU,OTU73 Bifidobacterium tissierii,"YBS
+Days 21 to 49
+(pathology)",2.4645884768,
